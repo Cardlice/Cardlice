@@ -7,7 +7,7 @@ ___
 </br>
 
 # 🧑‍💻 About me:
-### I'm 20 years old frontend learning enthusiast from Ukraine.
+### I'm 20 years old front-end learning enthusiast from Ukraine.
 
 </br>
 
@@ -42,6 +42,9 @@ ___
   <a href="https://git-scm.com/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
   </a>
+  
+  </br>
+  
   <a href="https://mui.com/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" />
   </a>
